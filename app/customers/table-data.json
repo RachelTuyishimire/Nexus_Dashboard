@@ -1,0 +1,80 @@
+[
+    {
+      "Name": "Mary Ann",
+      "CompanyName": "Hydrobox",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "inactive"
+    },
+    {
+      "Name": "Kevin James",
+      "CompanyName": "Kudura",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    },
+    {
+      "Name": "John Doe",
+      "CompanyName": "Hydrobox",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    },
+    {
+      "Name": "John Kamunde",
+      "CompanyName": "Kudura",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "inactive"
+    },
+    {
+      "Name": "John Michael",
+      "CompanyName": "Hydrobox",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    },
+    {
+      "Name": "John Paul",
+      "CompanyName": "Hydrobox",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "inactive"
+    },
+    {
+      "Name": "Brian Gigs",
+      "CompanyName": "Kudura",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    },
+    {
+      "Name": "John Salah",
+      "CompanyName": "Hydrobox",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    },
+    {
+      "Name": "Ngolo Kante",
+      "CompanyName": "Kudura",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "inactive"
+    },
+    {
+      "Name": "Dawin Nunez",
+      "CompanyName": "Powerhive",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "inactive"
+    },
+    {
+      "Name": "Daniel Alves",
+      "CompanyName": "Powerhive",
+      "Location": "Karen,Nairobi",
+      "MeterNumber": "012578887245",
+      "Status": "active"
+    }
+  ]
+  
