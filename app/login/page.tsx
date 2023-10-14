@@ -58,9 +58,9 @@ const Login = () => {
   return (
     <div className="bg-gray-200">
       <div className="bg-blue-700 h-[20%] w-full absolute top-0 rounded-bl-[1000px]"></div>
-      <div className="h-screen flex  flex-col">
-        <div className="flex-1 mt-20 flex justify-center items-center">
-          <div className="bg-white w-1/4 p-9 mb-16 rounded shadow-md">
+      <div className=" h-screen flex  flex-col">
+        <div className="  flex-1 mt-24 flex justify-center items-center">
+          <div className="box bg-white w-1/4 mt-2 p-9 mb-16 rounded shadow-md">
            
              <Image
           src="/niu.png"

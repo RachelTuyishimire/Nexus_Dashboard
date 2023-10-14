@@ -28,3 +28,14 @@ body {
     rgb(var(--background-start-rgb));
 } */
 
+
+@media(max-width:1025px){
+  .box{
+    width: 40%;
+    height: 60vh;
+   
+    
+  }
+ 
+ 
+}
