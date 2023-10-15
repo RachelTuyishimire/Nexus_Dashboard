@@ -8,8 +8,6 @@ interface UserData {
   phonenumber: string;
   email: string;
 }
-
-
 const useGetUsers = () => {
   const [customers, setCustomers] = useState<UserData[]>([]);
   const [refreshToggle, setRefreshToggle] = useState(false);
@@ -18,9 +16,7 @@ const useGetUsers = () => {
  
       const users = await getUsers();
       setCustomers(users);
-
   };
-
   useEffect(() => {
     fetchUserData();
   }, [refreshToggle]);

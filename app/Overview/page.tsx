@@ -61,7 +61,7 @@ const Overview = () => {
     <div>
       <Layout>
     <div className="py-1">
-      <div className="container mx-auto flex flex-col items-center ml-20">
+      <div className="container mx-auto flex  flex-col items-center ml-20">
         <h2 className="text-3xl font-bold text-black mb-2 mt-[1%] ml-[-79%]">Overview</h2>
         <div className="flex flex-wrap justify-center">
           <div className="w-64 bg-blue-700 shadow-lg rounded-lg m-4 p-6  text-center relative">
@@ -81,13 +81,13 @@ const Overview = () => {
       {/* Filter dropdown menu */}
       <div className="filter-menu ml-[40%] ">
         <label className="text-lg mr-2">Filter by Status:</label>
-        <select onChange={(e) => setActiveFilter(e.target.value)} className='w-24 h-10 px-4 rounded-lg border bg-blue-900 text-white' >
+        <select onChange={(e) => setActiveFilter(e.target.value)} className='w-12 h-10 px-1 rounded-lg border bg-blue-900 text-white' >
           <option value="all">All</option>
           <option value="active">Active</option>
           <option value="inactive">Inactive</option>
         </select>
         <label className="text-lg mr-3 ml-4">Filter by Year:</label>
-        <select onChange={(e) => setYearFilter(e.target.value)} className='w-24 h-10 px-4 rounded-lg border bg-blue-900 text-white'>
+        <select onChange={(e) => setYearFilter(e.target.value)} className='w-12 h-10 px-1 rounded-lg border bg-blue-900 text-white'>
           <option value="all">All</option>
           {Array.from({ length: 24 }, (_, i) => {
             const year = 2001 + i;

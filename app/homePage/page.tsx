@@ -18,7 +18,7 @@ const HomePage = () => {
         />
         </div>
         <p className="text-xl mb-[3%] ml-[2px]">Welcome to Nexus Customer Interface Unit</p>
-        <button className="w-1/6 bg-blue-800 flex ml-[43%] justify-center text-white p-3 rounded-full hover:bg-blue-700 text-xl font-bold mx-auto">
+        <button className="w-1/6 bg-blue-800 flex ml-[42%] mb-10 justify-center text-white p-3 rounded-full hover:bg-blue-700 text-xl font-bold mx-auto">
           <Link href='/login'>Get Started</Link>
         </button>
       </div>
