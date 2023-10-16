@@ -110,7 +110,7 @@ const handleFilterChange = (selectedFilter: React.SetStateAction<string>) => {
     
     <div>
       <Layout>
-    <div className="flex h-screen -mt-90 px-20">
+    <div className=" customer flex h-screen -mt-90 px-20">
       <div className="flex- p-4 overflow-y-auto bg-white text-black">
         <div className="">
          

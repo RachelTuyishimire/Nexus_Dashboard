@@ -39,3 +39,25 @@ body {
  
  
 }
+
+
+@media (max-width: 640px) {
+  .customer{
+    flex-direction: column;
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+
+  .customer {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .customer {
+    margin-left: 20px;
+  }
+}
